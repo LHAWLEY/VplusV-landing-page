@@ -10,13 +10,9 @@ html, body {
   width: 100%;
 }
 
-ul {
-  padding-left: 0;
-}
+ul { padding-left: 0 }
 
-.header-title {
-  font-size: 42px;
-}
+.header-title { font-size: 42px }
 
 .main-content-title {
   padding: 20px 0 10px;
@@ -72,17 +68,11 @@ ul {
   margin-top: 10px;
 }
 
-.white_button:hover{
-  border-color: #464646;
-}
+.white_button:hover{ border-color: #464646 }
 
-.white_button:first-of-type {
-  margin-right: 20px;
-}
+.white_button:first-of-type { margin-right: 20px }
 
-.after-text {
-  padding-top: 90px;
-}
+.after-text { padding-top: 90px }
 
 .nav {
   background-color: #ffffff;
@@ -137,18 +127,14 @@ ul {
   padding-top: 10px;
 }
 
-.clear {
-  clear: both;
-}
+.clear { clear: both }
 
 .invisible-outer-frame {
   overflow: hidden;
   padding: 10px;
 }
 
-.black-frame-container{
-  postion: relative;
-}
+.black-frame-container {postion: relative }
 
 .black-frame {
   position: absolute;
@@ -163,9 +149,7 @@ ul {
   padding-top: 75px;
 }
 
-.list-container {
-  list-style-type: none;
-}
+.list-container { list-style-type: none }
 
 .footer a,
 .footer a:hover,
